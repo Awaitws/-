@@ -1,0 +1,5 @@
+imagehash
+opencv-python
+pillow
+numpy
+ConfigParser
